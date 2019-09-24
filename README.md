@@ -1,6 +1,6 @@
 # c4-drawio
 
-This file is both drawio and png file and can be edited directly in draw.io
+This file is in [.png (with embedded XML)](https://about.draw.io/features/import-export/) format and can be edited directly in draw.io
 
 ![c4-drawio](/c4.drawio.png)
 
