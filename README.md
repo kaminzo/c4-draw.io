@@ -1,6 +1,8 @@
 # c4-drawio
 
-This file can be edited directly in draw.io
+This file is both drawio and png file and can be edited directly in draw.io
+
+![c4-drawio](/c4.drawio.png)
 
 To edit data select a shape and press Cmd + M
 
