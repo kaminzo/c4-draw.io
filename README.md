@@ -1,18 +1,16 @@
-# c4-drawio
+# c4-draw.io
 
 This file is in [.png (with embedded XML)](https://about.draw.io/features/import-export/) format and can be edited directly in draw.io
 
 Will not require draw.io plugin popup as it is not a plugin - making it easier for others to edit the diagram.
 
-![drawio-popup](/drawio_plugin_popup.png)
+![draw.io-plugin-popup](/drawio_plugin_popup.png)
 
 ## Quick Start
 
 Click the link below to load the file in [draw.io Online](https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png):
 
 <https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png>
-
-
 
 ## Editing
 
@@ -24,7 +22,7 @@ If you like, save the file as .png (with embedded XML) for ease of viewing.
 
 ## Diagram
 
-![c4-drawio](/c4.drawio.png)
+![c4-draw.io](/c4.drawio.png)
 
 ## Credits
 
