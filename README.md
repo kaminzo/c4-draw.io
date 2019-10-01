@@ -18,7 +18,7 @@ Click the link below to load the file in [draw.io Online](https://www.draw.io/#U
 
 Simply copy and paste shapes.
 
-To edit the shape data select a shape and press Cmd + M
+To edit shape data select a shape and press Cmd + M (on Mac).
 
 If you like, save the file as .png (with embedded XML) for ease of viewing.
 
