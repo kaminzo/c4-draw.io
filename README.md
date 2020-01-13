@@ -12,6 +12,12 @@ Click the link below to load the file in [draw.io Online](https://www.draw.io/#U
 
 <https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png>
 
+## Loading the shapes library from XML
+
+The `c4.drawio.library.xml` is a library definition that can be imported into an existing draw.io diagram and provides the C4 model shapes as a library.
+
+To import the shapes library, first download your the XML and then in draw.io go to *File* -> *Open library from* -> *Device* and select the XML file from your device.
+
 ## Editing
 
 Simply copy and paste shapes.
