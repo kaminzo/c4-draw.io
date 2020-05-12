@@ -1,6 +1,6 @@
 # c4-draw.io
 
-This file is in [.png (with embedded XML)](https://about.draw.io/features/import-export/) format and can be edited directly in draw.io
+This file is in [.png (with embedded XML)](https://www.diagrams.net/blog/xml-in-png) format and can be edited directly in draw.io
 
 Will not require draw.io plugin popup as it is not a plugin - making it easier for others to edit the diagram.
 
