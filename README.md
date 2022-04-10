@@ -2,7 +2,7 @@
 
 This file is in [.png (with embedded XML)](https://www.diagrams.net/blog/xml-in-png) format and can be edited directly in draw.io
 
-Will not require draw.io plugin popup as it is not a plugin - making it easier for others to edit the diagram.
+It will not require a draw.io plugin popup as it is not a plugin - making it easier for others to edit the diagram.
 
 ![draw.io-plugin-popup](/drawio_plugin_popup.png)
 
@@ -10,19 +10,25 @@ Will not require draw.io plugin popup as it is not a plugin - making it easier f
 
 Click the link below to load the file in [draw.io Online](https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png):
 
-<https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png>
+Classic: <https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png>
+
+With Icons: <https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4-icons.drawio.png>
+
+## Icons
+
+An easy way to find the icons image URL for the container shape is to search Google Images for your "technology name " + "logo SVG".
 
 ## Loading the shapes library from XML
 
 The `c4.drawio.library.xml` is a library definition that can be imported into an existing draw.io diagram and provides the C4 model shapes as a library.
 
-To import the shapes library, first download your the XML and then in draw.io go to *File* -> *Open library from* -> *Device* and select the XML file from your device.
+To import the shapes library, download the XML. Then, in draw.io, go to *File* -> *Open library from* -> *Device* and select the XML file from your device.
 
 ## Editing
 
 Simply copy and paste shapes.
 
-To edit shape data select a shape and press Cmd + M (on Mac).
+Select a shape and press Cmd + M (on Mac) to edit shape data.
 
 If you like, save the file as .png (with embedded XML) for ease of viewing.
 
