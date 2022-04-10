@@ -34,7 +34,13 @@ If you like, save the file as .png (with embedded XML) for ease of viewing.
 
 ## Diagram
 
+### Classic
+
 ![c4-draw.io](/c4.drawio.png)
+
+### With Icons
+
+![c4-icons--draw.io](/c4-icons.drawio.png)
 
 ## Credits
 
