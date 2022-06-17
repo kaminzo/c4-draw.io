@@ -36,11 +36,11 @@ If you like, save the file as .png (with embedded XML) for ease of viewing.
 
 ### Classic
 
-![c4-draw.io](/c4.drawio.png)
+[![c4-draw.io](/c4.drawio.png)](https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png)
 
 ### With Icons
 
-![c4-icons--draw.io](/c4-icons.drawio.png)
+[![c4-icons--draw.io](/c4-icons.drawio.png)](https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4-icons.drawio.png)
 
 ## Credits
 
