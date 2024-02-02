@@ -10,9 +10,9 @@ It will not require a draw.io plugin popup as it is not a plugin - making it eas
 
 Click the link below to load the file in [draw.io Online](https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png):
 
-Classic: <https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4.drawio.png>
+Classic: <https://www.draw.io/#Uhttps://raw.githubusercontent.com/kaminzo/c4-draw.io/master/c4.drawio.png>
 
-With Icons: <https://www.draw.io/#Uhttps://github.com/kaminzo/c4-draw.io/raw/master/c4-icons.drawio.png>
+With Icons: <https://www.draw.io/#Uhttps://raw.githubusercontent.com/kaminzo/c4-draw.io/master/c4-icons.drawio.png>
 
 ## Icons
 
